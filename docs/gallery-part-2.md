@@ -9043,3 +9043,241 @@ Create a dreamy watercolor travel illustration style from the attached photo. Us
 ```
 
 ***
+
+<a name="case-446"></a>
+
+### 例 446：低多边形纸艺男士肖像
+
+![低多边形纸艺男士肖像](../data/images/case446.jpg)
+
+**来源：** [@iamsofiaijaz](https://x.com/iamsofiaijaz/status/2056953102755115162)
+
+**提示词：**
+
+```text
+Create a highly detailed low-poly papercraft portrait of a stylish young man, designed like an origami paper sculpture. The character has curly dark brown hair, a trimmed beard, and wears slightly black-tinted geometric sunglasses with thin black frames. His shirt is medium grey with sharp polygonal folds and realistic paper texture. Use faceted angular shapes across the face, hair, and clothing, with realistic shadows and layered paper depth. Minimal clean white studio background, soft lighting, ultra-realistic paper craft aesthetic, modern geometric art style, high detail, centered composition, 8k quality.
+```
+
+***
+
+<a name="case-447"></a>
+
+### 例 447：现代地铁工程信息图
+
+![现代地铁工程信息图](../data/images/case447.jpg)
+
+**来源：** [@j\_smeaton99](https://x.com/j_smeaton99/status/2056950969083343077)
+
+**提示词：**
+
+```text
+Create a premium square “reference-style urban transportation infographic” centered around a futuristic modern metro system called the {METRO_NAME}, designed as a beautifully curated transit-engineering handbook page rather than a public transport advertisement.
+
+The composition should feel like a modern visual encyclopedia mixed with an elite railway infrastructure field guide and high-end editorial infographic system.
+
+Visual Direction:
+
+• 1:1 square composition
+• Dark premium urban-tech background with subtle railway schematics, metro maps, and futuristic blueprint overlays
+• Elegant palette using deep navy, matte black, steel gray, electric blue accents, and soft white lighting
+• Refined editorial typography hierarchy with modern transportation aesthetics
+• Rounded modular information cards with clean spacing
+• Gentle realistic reflections and premium HUD-style dividers
+• Minimal transit-system iconography
+• Extremely detailed central metro train render viewed in dramatic three-quarter perspective inside a futuristic underground station
+• Thin precision annotation lines pointing toward transportation systems and smart engineering features
+• Clean, organized “knowledge-first” layout with high information density but breathable spacing
+
+Main Subject Presentation:
+
+A stunning ultra-detailed realistic render of the {METRO_NAME} modern metro train placed at the center, featuring sleek aerodynamic train design, glowing destination displays, realistic stainless-steel textures, illuminated station lighting, smart glass windows, premium urban-environment realism, and futuristic rail infrastructure.
+
+Surround the metro with scientific and engineering callouts explaining:
+
+• regenerative braking system
+• smart signalling & CBTC control
+• electric propulsion system
+• passenger information systems
+• safety and surveillance technology
+• platform screen doors
+• energy-efficient design
+• smart ventilation systems
+• accessibility features
+• track and infrastructure engineering
+
+Include modular infographic sections such as:
+
+• Metro System Overview
+• Technical Specifications
+• Train Dimensions & Layout
+• Passenger Capacity & Flow
+• Smart Control Systems
+• Sustainability Features
+• Track & Infrastructure Engineering
+• Signalling & Automation
+• Station Design & Facilities
+• Safety & Emergency Systems
+• Passenger Experience Features
+• Urban Connectivity & Network Map
+• Energy Efficiency Comparison
+• Construction & Expansion Timeline
+• “Top 5 Smart Innovations” section
+• Built for Future Smart Cities
+
+Add small premium visualization modules like:
+
+• metro network maps
+• train blueprint diagrams
+• station layout graphics
+• passenger flow visualizations
+• signalling workflow diagrams
+• energy-efficiency comparison charts
+• train configuration illustrations
+• smart-city connectivity graphics
+• platform safety diagrams
+• infrastructure cross-section visuals
+
+Style Keywords:
+
+“premium urban mobility encyclopedia”
+“editorial metro engineering handbook”
+“high-end transportation infographic”
+“scientific railway infrastructure poster”
+“museum-quality transit reference page”
+“modular smart-city knowledge system”
+“clean transportation editorial design”
+“ultra-detailed metro visualization”
+
+Avoid:
+
+• cluttered public advertisement aesthetics
+• cartoon transportation styling
+• unrealistic sci-fi levitating trains
+• excessive cyberpunk neon overload
+• chaotic city scenes
+• generic subway poster layouts
+
+The final result should resemble a professionally published railway infrastructure reference-book page created for transit enthusiasts, architects, engineers, urban planners, transportation designers, and educational infrastructure archives.
+```
+
+***
+
+<a name="case-448"></a>
+
+### 例 448：1942 空战街机电影城
+
+![1942 空战街机电影城](../data/images/case448.jpg)
+
+**来源：** [@Xaroon\_x](https://x.com/Xaroon_x/status/2056940561148363010)
+
+**提示词：**
+
+```text
+Ultra-realistic cinematic “1942 City” scene, retro WWII arcade-shooter-inspired metropolis in real life, intense aerial-war atmosphere, vertical 4:5 editorial composition
+
+Male, exact face, vintage military-pilot-inspired streetwear from head to toe, bomber jacket with retro aviation patches, fitted cargo trousers, rugged combat boots, fingerless gloves, pilot goggles hanging around neck, walking through the city with fearless ace-pilot expression while fighter planes soar overhead
+
+✈️ 1942 CITY WORLDBUILDING
+
+entire city functions like a living 1942 arcade shooter universe
+• massive WWII fighter planes dogfighting above skyscrapers
+• giant anti-aircraft cannons mounted across rooftops
+• endless bullet patterns streaking through cloudy skies
+• retro military airfields integrated into urban districts
+• giant “MISSION START” alerts projected into the clouds
+• dramatic explosion trails lighting the skyline at night
+• aircraft carriers docked beside futuristic city ports
+• glowing power-up icons floating through aerial battle zones
+• giant radar systems rotating above downtown towers
+• endless enemy squadrons emerging from storm clouds
+• cinematic ocean-and-warzone environments surrounding the metropolis
+
+😂 COMEDIC DETAILS
+
+• random civilians casually dodging fighter planes on the way to work 😭
+• one pilot barrel-rolling dramatically for absolutely no reason
+• giant billboard flashing: “PLAYER 1 READY.”
+• pedestrians treating near-miss explosions like normal traffic
+• somebody still trying to collect every floating power-up midair
+• random mechanic repairing planes using pure confidence
+• one legendary pilot surviving impossible situations through arcade logic alone
+
+💡 LIGHTING & STYLE
+
+retro war-film cinematic lighting, fiery aerial-battle atmosphere, dramatic clouds and explosion reflections, hyper-detailed realistic textures mixed with nostalgic arcade-shooter aesthetics, intense blockbuster-war energy, masterpiece quality
+
+🎥 CAMERA
+
+cinematic aerial tracking shot, immersive dogfight atmosphere, dynamic motion blur from fighter planes and explosions, documentary-meets-retro-arcade realism, futuristic Manila-inspired 1942 metropolis, “classic arcade air combat became civilization” atmosphere
+```
+
+***
+
+<a name="case-449"></a>
+
+### 例 449：奢华机械腕表技术图鉴
+
+![奢华机械腕表技术图鉴](../data/images/case449.jpg)
+
+**来源：** [@Gdgtify](https://x.com/Gdgtify/status/2056928396991488312)
+
+**提示词：**
+
+```text
+2x2 grid 16:9, do this for 4 most expensive strangest watches ever made:
+
+class Haute_Horlogerie_DNA:
+    def __init__(self):
+        self.subject = "[TIMEPIECE]"
+        self.parents = {
+            "composition_parent": "Exploded movement diagram with transparent case",
+            "material_parent": "Brushed titanium, sapphire crystal, rose gold gears, alligator leather",
+            "graphic_parent": "Swiss manufacture technical brochure with elegant data panels",
+            "atmosphere_parent": "Crisp daylight studio, pure white background, subtle reflection on polished surfaces"
+        }
+        self.mutations = {
+            "semantic_mutation": "The balance wheel reveals a miniature cosmos ticking inside",
+            "information_mutation": "Power reserve indicator, frequency, complication callouts, hand-finishing grades, assembly timeline",
+            "medium_mutation": "Smooth matte premium paper with embossed logo",
+            "scale_mutation": "Grain-level view of Côtes de Genève finishing and jewel bearings"
+        }
+        self.style_mix = [0.30, 0.30, 0.25, 0.10, 0.05]
+
+    def generate_subject(self):
+        subject = """
+        [TIMEPIECE] shown in its full mechanical glory. The dial, hands, movement,
+        and strap float in perfect alignment against a bright, clean background.
+        Every gear and spring is highlighted with exacting clarity.
+        """
+        return render(
+            subject,
+            format="luxury watch advertisement with technical insert",
+            title="[MODEL REFERENCE]",
+            subtitle="[MANUFACTURE / COLLECTION]",
+            constraints="bright white space, metallic brilliance, hyper-detailed, modern elegance"
+        )
+```
+
+***
+
+<a name="case-450"></a>
+
+### 例 450：烛光侧室写实摄影
+
+![烛光侧室写实摄影](../data/images/case450.jpg)
+
+**来源：** [@ToroJushiAi](https://x.com/ToroJushiAi/status/2056926887344042382)
+
+**提示词：**
+
+```text
+A medium-shot authentic daily life photograph, natural candid moment, of an East Asian young woman standing in a small side room lit only by a single candle on a low stone shelf. 85mm lens, waist-up framing, shallow depth of field. The candle is off-frame to the left; the room behind her exists only as dark warm suggestion.
+
+East Asian young woman in her early 20s. Almond-shaped eyes receiving the candle's warm flicker — the irises briefly caught in light before returning to shadow. Straight refined nose, the bridge illuminated in a narrow warm stripe. Skin tone fair beige, warmed entirely by candlelight into something amber. Skin subsurface scattering visible under directional candlelight, specular micro-highlights on cheekbones and nose ridge, fine foundation powder grain perceptible.
+
+She wears an aged amber silk qipao with chrysanthemum embroidery in tones of old bronze and dusty ochre — the amber pigment identical in temperature to the candle's own light, the embroidery appearing and disappearing depending on angle. Mandarin collar, short sleeves. She stands facing the candle without looking at it, arms at her sides, very still. The room is otherwise empty. Two or three stray hairs displaced by faint air movement, natural unplanned imperfection, not geometrically symmetrical.
+
+Single candle — warm amber-orange, directional and fragile. It carves the left side of her face from darkness, leaves the right in near-black shadow. The amber qipao and the candlelight share a single temperature register: the room folds her into the light. Deep chiaroscuro with no artificial fill. Subtle ISO 400 film grain in shadow areas, photographic noise texture not CG render smoothness. Aspect ratio 9:16. No watermark, no text overlay, not cartoon, not digitally painted, not illustration, not anime.
+```
+
+***

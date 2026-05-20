@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/freestylefly/awesome-gpt-image-2"><img src="https://img.shields.io/github/stars/freestylefly/awesome-gpt-image-2?style=flat-square&color=rgb(25%2C%20121%2C%20255)" alt="Stars"></a>
   <a href="https://github.com/freestylefly/awesome-gpt-image-2"><img src="https://img.shields.io/github/forks/freestylefly/awesome-gpt-image-2?style=flat-square&color=green" alt="Forks"></a>
-  <a href="https://github.com/freestylefly/awesome-gpt-image-2"><img src="https://img.shields.io/badge/Cases-445-blueviolet?style=flat-square" alt="Cases"></a>
+  <a href="https://github.com/freestylefly/awesome-gpt-image-2"><img src="https://img.shields.io/badge/Cases-450-blueviolet?style=flat-square" alt="Cases"></a>
   <a href="https://github.com/freestylefly/awesome-gpt-image-2"><img src="https://img.shields.io/badge/100%25-Original_AI_Rewritten-green?style=flat-square" alt="Original"></a>
 </p>
 
@@ -50,7 +50,7 @@ The core goal is simple: compress prose-style prompts into structured protocols.
 
 - [Full case gallery](docs/gallery.md)
 - [Gallery Part 1: cases 1-165](docs/gallery-part-1.md)
-- [Gallery Part 2: cases 166-445](docs/gallery-part-2.md)
+- [Gallery Part 2: cases 166-450](docs/gallery-part-2.md)
 - [Industrial prompt templates and pitfalls guide](docs/templates.md)
 - [Agent skill: GPT-Image2 Style Library](agents/skills/gpt-image-2-style-library/SKILL.md)
 - [MIT License](LICENSE)
@@ -71,7 +71,7 @@ Start with the case album to find a visual direction, then open the prompt templ
       <a href="docs/gallery.md#cat-ui"><strong>View Cases</strong></a>
     </td>
     <td width="33%" valign="top" align="center">
-      <p><strong>📊 Charts & Infographics</strong><br><sub>46 cases</sub></p>
+      <p><strong>📊 Charts & Infographics</strong><br><sub>47 cases</sub></p>
       <a href="docs/gallery.md#cat-infographic"><img src="data/images/category-covers/infographic.jpg" alt="Charts and infographics" width="220"></a><br>
       <sub>Infographics, knowledge maps, technical explainers, and structured diagrams.</sub><br>
       <a href="docs/gallery.md#cat-infographic"><strong>View Cases</strong></a>
@@ -85,7 +85,7 @@ Start with the case album to find a visual direction, then open the prompt templ
   </tr>
   <tr>
     <td width="33%" valign="top" align="center">
-      <p><strong>🛍️ Products & E-commerce</strong><br><sub>31 cases</sub></p>
+      <p><strong>🛍️ Products & E-commerce</strong><br><sub>32 cases</sub></p>
       <a href="docs/gallery.md#cat-product"><img src="data/images/category-covers/product.jpg" alt="Products and e-commerce" width="220"></a><br>
       <sub>Product shots, detail pages, packaging, selling points, and ads.</sub><br>
       <a href="docs/gallery.md#cat-product"><strong>View Cases</strong></a>
@@ -105,13 +105,13 @@ Start with the case album to find a visual direction, then open the prompt templ
   </tr>
   <tr>
     <td width="33%" valign="top" align="center">
-      <p><strong>📷 Photography & Realism</strong><br><sub>55 cases</sub></p>
+      <p><strong>📷 Photography & Realism</strong><br><sub>56 cases</sub></p>
       <a href="docs/gallery.md#cat-photo"><img src="data/images/category-covers/photo.jpg" alt="Photography and realism" width="220"></a><br>
       <sub>Portraits, phone photography, film texture, and commercial photography.</sub><br>
       <a href="docs/gallery.md#cat-photo"><strong>View Cases</strong></a>
     </td>
     <td width="33%" valign="top" align="center">
-      <p><strong>🎨 Illustration & Art</strong><br><sub>43 cases</sub></p>
+      <p><strong>🎨 Illustration & Art</strong><br><sub>44 cases</sub></p>
       <a href="docs/gallery.md#cat-illustration"><img src="data/images/category-covers/illustration.jpg" alt="Illustration and art" width="220"></a><br>
       <sub>Illustration, art styles, material experiments, and decorative images.</sub><br>
       <a href="docs/gallery.md#cat-illustration"><strong>View Cases</strong></a>
@@ -125,7 +125,7 @@ Start with the case album to find a visual direction, then open the prompt templ
   </tr>
   <tr>
     <td width="33%" valign="top" align="center">
-      <p><strong>🎬 Scenes & Storytelling</strong><br><sub>16 cases</sub></p>
+      <p><strong>🎬 Scenes & Storytelling</strong><br><sub>17 cases</sub></p>
       <a href="docs/gallery.md#cat-scene"><img src="data/images/category-covers/scene.jpg" alt="Scenes and storytelling" width="220"></a><br>
       <sub>Storyboards, narrative scenes, livestream frames, and worldbuilding.</sub><br>
       <a href="docs/gallery.md#cat-scene"><strong>View Cases</strong></a>
@@ -153,14 +153,14 @@ Start with the case album to find a visual direction, then open the prompt templ
     <td width="33%" valign="top" align="center">
       <h4>🖼️ Full Gallery</h4>
       <a href="docs/gallery.md"><img src="data/images/category-covers/gallery.jpg" alt="Full gallery" width="220"></a><br>
-      <sub>Browse all 445 cases by gallery part and category.</sub><br>
+      <sub>Browse all 450 cases by gallery part and category.</sub><br>
       <a href="docs/gallery.md"><strong>Open Gallery</strong></a>
     </td>
     <td width="33%" valign="top" align="center">
       <h4>⭐ Latest Additions</h4>
-      <a href="docs/gallery-part-2.md#case-445"><img src="data/images/case445.jpg" alt="Latest additions" width="220"></a><br>
+      <a href="docs/gallery-part-2.md#case-450"><img src="data/images/case450.jpg" alt="Latest additions" width="220"></a><br>
       <sub>The newest community cases and workflows collected in the repo.</sub><br>
-      <a href="docs/gallery-part-2.md#case-445"><strong>View Latest</strong></a>
+      <a href="docs/gallery-part-2.md#case-450"><strong>View Latest</strong></a>
     </td>
   </tr>
 </table>
@@ -427,11 +427,35 @@ Only the latest collection and import run is shown here. Older imports stay in t
 
 <table>
   <tr>
-    <td width="100%" valign="top" align="center">
-      <p><strong>Case 445: Travel Photo Ink-Wash Postcard</strong></p>
-      <a href="docs/gallery-part-2.md#case-445"><img src="data/images/case445.jpg" alt="Travel photo ink-wash postcard" width="180"></a><br>
-      <sub>A photo-to-postcard workflow with watercolor urban-sketch texture, handwritten title, notes, date, location stamps, and travel diary layout.</sub><br>
-      <a href="docs/gallery-part-2.md#case-445"><strong>View Case</strong></a>
+    <td width="20%" valign="top" align="center">
+      <p><strong>Case 446: Low-Poly Papercraft Portrait</strong></p>
+      <a href="docs/gallery-part-2.md#case-446"><img src="data/images/case446.jpg" alt="Low-poly papercraft portrait" width="150"></a><br>
+      <sub>A faceted paper-sculpture portrait with realistic folded texture and clean studio lighting.</sub><br>
+      <a href="docs/gallery-part-2.md#case-446"><strong>View Case</strong></a>
+    </td>
+    <td width="20%" valign="top" align="center">
+      <p><strong>Case 447: Modern Metro Engineering Infographic</strong></p>
+      <a href="docs/gallery-part-2.md#case-447"><img src="data/images/case447.jpg" alt="Modern metro engineering infographic" width="150"></a><br>
+      <sub>A dense transit-engineering handbook page with modular cards, schematics, and technical callouts.</sub><br>
+      <a href="docs/gallery-part-2.md#case-447"><strong>View Case</strong></a>
+    </td>
+    <td width="20%" valign="top" align="center">
+      <p><strong>Case 448: 1942 Arcade Air-Combat City</strong></p>
+      <a href="docs/gallery-part-2.md#case-448"><img src="data/images/case448.jpg" alt="1942 arcade air-combat city" width="150"></a><br>
+      <sub>A cinematic WWII arcade-shooter worldbuilding scene with planes, city signage, and game logic details.</sub><br>
+      <a href="docs/gallery-part-2.md#case-448"><strong>View Case</strong></a>
+    </td>
+    <td width="20%" valign="top" align="center">
+      <p><strong>Case 449: Luxury Watch Technical Atlas</strong></p>
+      <a href="docs/gallery-part-2.md#case-449"><img src="data/images/case449.jpg" alt="Luxury watch technical atlas" width="150"></a><br>
+      <sub>A 2x2 haute horlogerie layout combining exploded mechanisms, price context, and brochure panels.</sub><br>
+      <a href="docs/gallery-part-2.md#case-449"><strong>View Case</strong></a>
+    </td>
+    <td width="20%" valign="top" align="center">
+      <p><strong>Case 450: Candlelit Side-Room Photo</strong></p>
+      <a href="docs/gallery-part-2.md#case-450"><img src="data/images/case450.jpg" alt="Candlelit side-room photo" width="150"></a><br>
+      <sub>A warm chiaroscuro portrait prompt for candle-only lighting, amber qipao texture, and film grain.</sub><br>
+      <a href="docs/gallery-part-2.md#case-450"><strong>View Case</strong></a>
     </td>
   </tr>
 </table>

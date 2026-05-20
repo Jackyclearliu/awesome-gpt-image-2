@@ -1,10 +1,10 @@
 ## 🖼️ 魔法画廊总览
 
-完整画廊已按 GitHub 渲染体积拆成两册，避免页面被截断；当前总案例数为 445。
+完整画廊已按 GitHub 渲染体积拆成两册，避免页面被截断；当前总案例数为 450。
 
 - [返回 README 首页](../README.md)
 - [Part 1：例 1-165](./gallery-part-1.md)
-- [Part 2：例 166-445](./gallery-part-2.md)
+- [Part 2：例 166-450](./gallery-part-2.md)
 - [工业级提示词模板与防坑指南](./templates.md)
 - [声明、Star 趋势图与公众号](./disclaimer.md)
 
@@ -113,24 +113,29 @@
 - [例 443：塔可爆炸拆解信息图](./gallery-part-2.md#case-443)
 - [例 444：迪斯科镜面 3D App 图标](./gallery-part-2.md#case-444)
 - [例 445：旅游照水墨明信片](./gallery-part-2.md#case-445)
+- [例 446：低多边形纸艺男士肖像](./gallery-part-2.md#case-446)
+- [例 447：现代地铁工程信息图](./gallery-part-2.md#case-447)
+- [例 448：1942 空战街机电影城](./gallery-part-2.md#case-448)
+- [例 449：奢华机械腕表技术图鉴](./gallery-part-2.md#case-449)
+- [例 450：烛光侧室写实摄影](./gallery-part-2.md#case-450)
 
 ## 分册说明
 
 - `gallery-part-1.md`：例 1-165，覆盖信息图、界面、海报、摄影、插画等基础主流类型。
-- `gallery-part-2.md`：例 166-445，包含更多品牌、卡牌、直播截图、国风、商业视觉、作者新增实测与社区案例。
+- `gallery-part-2.md`：例 166-450，包含更多品牌、卡牌、直播截图、国风、商业视觉、作者新增实测与社区案例。
 
 ## 分类概览
 
 - UI与界面：73
-- 图表与信息可视化：46
+- 图表与信息可视化：47
 - 海报与排版：71
-- 商品与电商：31
+- 商品与电商：32
 - 品牌与标志：22
 - 建筑与空间：11
-- 摄影与写实：55
-- 插画与艺术：43
+- 摄影与写实：56
+- 插画与艺术：44
 - 人物与角色：21
-- 场景与叙事：16
+- 场景与叙事：17
 - 历史与古风题材：16
 - 文档与出版物：9
 - 其他应用场景：28
@@ -209,7 +214,7 @@
 
 <a name="cat-infographic"></a>
 
-### 📊 图表与信息可视化 · 46 cases
+### 📊 图表与信息可视化 · 47 cases
 
 - [例 8：科普百科图](./gallery-part-1.md#case-8)
 - [例 14：信息图可视化设计](./gallery-part-1.md#case-14)
@@ -257,6 +262,7 @@
 - [例 380：冠状病毒尺度缩放科学信息图](./gallery-part-2.md#case-380)
 - [例 407：Neuro-AI 混合系统信息图](./gallery-part-2.md#case-407)
 - [例 443：塔可爆炸拆解信息图](./gallery-part-2.md#case-443)
+- [例 447：现代地铁工程信息图](./gallery-part-2.md#case-447)
 
 <a name="cat-poster"></a>
 
@@ -335,7 +341,7 @@
 
 <a name="cat-product"></a>
 
-### 🛍️ 商品与电商 · 31 cases
+### 🛍️ 商品与电商 · 32 cases
 
 - [例 17：界面交互设计图](./gallery-part-1.md#case-17)
 - [例 33：电商商品展示设计](./gallery-part-1.md#case-33)
@@ -367,6 +373,7 @@
 - [例 424：FMCG 棒棒糖霓虹广告](./gallery-part-2.md#case-424)
 - [例 438：珠宝微缩城市广告海报](./gallery-part-2.md#case-438)
 - [例 441：WILDCAMP 巨型帐篷广告海报](./gallery-part-2.md#case-441)
+- [例 449：奢华机械腕表技术图鉴](./gallery-part-2.md#case-449)
 
 <a name="cat-brand"></a>
 
@@ -411,7 +418,7 @@
 
 <a name="cat-photo"></a>
 
-### 📷 摄影与写实 · 55 cases
+### 📷 摄影与写实 · 56 cases
 
 - [例 24：漫画分镜叙事设计](./gallery-part-1.md#case-24)
 - [例 26：建筑空间场景图](./gallery-part-1.md#case-26)
@@ -468,10 +475,11 @@
 - [例 429：韩国便利店粉色 Hoodie 人像](./gallery-part-2.md#case-429)
 - [例 434：东京街头胶片人像](./gallery-part-2.md#case-434)
 - [例 436：数码相机屏幕怀旧人像](./gallery-part-2.md#case-436)
+- [例 450：烛光侧室写实摄影](./gallery-part-2.md#case-450)
 
 <a name="cat-illustration"></a>
 
-### 🎨 插画与艺术 · 43 cases
+### 🎨 插画与艺术 · 44 cases
 
 - [例 6：插画艺术创作图](./gallery-part-1.md#case-6)
 - [例 22：插画艺术风格创作](./gallery-part-1.md#case-22)
@@ -517,6 +525,7 @@
 - [例 435：层叠纸雕情侣插画](./gallery-part-2.md#case-435)
 - [例 442：舒适发廊插画](./gallery-part-2.md#case-442)
 - [例 445：旅游照水墨明信片](./gallery-part-2.md#case-445)
+- [例 446：低多边形纸艺男士肖像](./gallery-part-2.md#case-446)
 
 <a name="cat-character"></a>
 
@@ -546,7 +555,7 @@
 
 <a name="cat-scene"></a>
 
-### 🎬 场景与叙事 · 16 cases
+### 🎬 场景与叙事 · 17 cases
 
 - [例 182：千禧年日系校园喜剧场景](./gallery-part-2.md#case-182)
 - [例 208：樱花树下害羞双马尾少女](./gallery-part-2.md#case-208)
@@ -564,6 +573,7 @@
 - [例 413：当代舞现场 Storyboard](./gallery-part-2.md#case-413)
 - [例 419：可颂烘焙流程 Storyboard](./gallery-part-2.md#case-419)
 - [例 422：冬季生存惊悚 Storyboard](./gallery-part-2.md#case-422)
+- [例 448：1942 空战街机电影城](./gallery-part-2.md#case-448)
 
 <a name="cat-history"></a>
 

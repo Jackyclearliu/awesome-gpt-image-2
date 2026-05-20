@@ -1,6 +1,6 @@
 {
   "repository": "https://github.com/freestylefly/awesome-gpt-image-2",
-  "totalCases": 442,
+  "totalCases": 447,
   "categories": [
     "Architecture & Spaces",
     "Brand & Logos",
@@ -50,6 +50,118 @@
     "Travel"
   ],
   "cases": [
+    {
+      "id": 450,
+      "title": "烛光侧室写实摄影",
+      "image": "/images/case450.jpg",
+      "imageAlt": "烛光侧室写实摄影",
+      "sourceLabel": "@ToroJushiAi",
+      "sourceUrl": "https://x.com/ToroJushiAi/status/2056926887344042382",
+      "prompt": "A medium-shot authentic daily life photograph, natural candid moment, of an East Asian young woman standing in a small side room lit only by a single candle on a low stone shelf. 85mm lens, waist-up framing, shallow depth of field. The candle is off-frame to the left; the room behind her exists only as dark warm suggestion.\n\nEast Asian young woman in her early 20s. Almond-shaped eyes receiving the candle's warm flicker — the irises briefly caught in light before returning to shadow. Straight refined nose, the bridge illuminated in a narrow warm stripe. Skin tone fair beige, warmed entirely by candlelight into something amber. Skin subsurface scattering visible under directional candlelight, specular micro-highlights on cheekbones and nose ridge, fine foundation powder grain perceptible.\n\nShe wears an aged amber silk qipao with chrysanthemum embroidery in tones of old bronze and dusty ochre — the amber pigment identical in temperature to the candle's own light, the embroidery appearing and disappearing depending on angle. Mandarin collar, short sleeves. She stands facing the candle without looking at it, arms at her sides, very still. The room is otherwise empty. Two or three stray hairs displaced by faint air movement, natural unplanned imperfection, not geometrically symmetrical.\n\nSingle candle — warm amber-orange, directional and fragile. It carves the left side of her face from darkness, leaves the right in near-black shadow. The amber qipao and the candlelight share a single temperature register: the room folds her into the light. Deep chiaroscuro with no artificial fill. Subtle ISO 400 film grain in shadow areas, photographic noise texture not CG render smoothness. Aspect ratio 9:16. No watermark, no text overlay, not cartoon, not digitally painted, not illustration, not anime.",
+      "promptPreview": "A medium-shot authentic daily life photograph, natural candid moment, of an East Asian young woman standing in a small side room lit only by a single candle on a low stone shelf. 85mm lens, waist-up framing, shallow dept",
+      "category": "Photography & Realism",
+      "styles": [
+        "Realistic",
+        "Illustration",
+        "3D"
+      ],
+      "scenes": [
+        "Tech",
+        "Commerce"
+      ],
+      "featured": false,
+      "githubUrl": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-450"
+    },
+    {
+      "id": 449,
+      "title": "奢华机械腕表技术图鉴",
+      "image": "/images/case449.jpg",
+      "imageAlt": "奢华机械腕表技术图鉴",
+      "sourceLabel": "@Gdgtify",
+      "sourceUrl": "https://x.com/Gdgtify/status/2056928396991488312",
+      "prompt": "2x2 grid 16:9, do this for 4 most expensive strangest watches ever made:\n\nclass Haute_Horlogerie_DNA:\n    def __init__(self):\n        self.subject = \"[TIMEPIECE]\"\n        self.parents = {\n            \"composition_parent\": \"Exploded movement diagram with transparent case\",\n            \"material_parent\": \"Brushed titanium, sapphire crystal, rose gold gears, alligator leather\",\n            \"graphic_parent\": \"Swiss manufacture technical brochure with elegant data panels\",\n            \"atmosphere_parent\": \"Crisp daylight studio, pure white background, subtle reflection on polished surfaces\"\n        }\n        self.mutations = {\n            \"semantic_mutation\": \"The balance wheel reveals a miniature cosmos ticking inside\",\n            \"information_mutation\": \"Power reserve indicator, frequency, complication callouts, hand-finishing grades, assembly timeline\",\n            \"medium_mutation\": \"Smooth matte premium paper with embossed logo\",\n            \"scale_mutation\": \"Grain-level view of Côtes de Genève finishing and jewel bearings\"\n        }\n        self.style_mix = [0.30, 0.30, 0.25, 0.10, 0.05]\n\n    def generate_subject(self):\n        subject = \"\"\"\n        [TIMEPIECE] shown in its full mechanical glory. The dial, hands, movement,\n        and strap float in perfect alignment against a bright, clean background.\n        Every gear and spring is highlighted with exacting clarity.\n        \"\"\"\n        return render(\n            subject,\n            format=\"luxury watch advertisement with technical insert\",\n            title=\"[MODEL REFERENCE]\",\n            subtitle=\"[MANUFACTURE / COLLECTION]\",\n            constraints=\"bright white space, metallic brilliance, hyper-detailed, modern elegance\"\n        )",
+      "promptPreview": "2x2 grid 16:9, do this for 4 most expensive strangest watches ever made: class Haute_Horlogerie_DNA:     def __init__(self):         self.subject = \"[TIMEPIECE]\"         self.parents = {             \"composition_parent\":",
+      "category": "Products & E-commerce",
+      "styles": [
+        "Infographic",
+        "Brand",
+        "3D"
+      ],
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Social"
+      ],
+      "featured": false,
+      "githubUrl": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-449"
+    },
+    {
+      "id": 448,
+      "title": "1942 空战街机电影城",
+      "image": "/images/case448.jpg",
+      "imageAlt": "1942 空战街机电影城",
+      "sourceLabel": "@Xaroon_x",
+      "sourceUrl": "https://x.com/Xaroon_x/status/2056940561148363010",
+      "prompt": "Ultra-realistic cinematic “1942 City” scene, retro WWII arcade-shooter-inspired metropolis in real life, intense aerial-war atmosphere, vertical 4:5 editorial composition\n\nMale, exact face, vintage military-pilot-inspired streetwear from head to toe, bomber jacket with retro aviation patches, fitted cargo trousers, rugged combat boots, fingerless gloves, pilot goggles hanging around neck, walking through the city with fearless ace-pilot expression while fighter planes soar overhead\n\n✈️ 1942 CITY WORLDBUILDING\n\nentire city functions like a living 1942 arcade shooter universe\n• massive WWII fighter planes dogfighting above skyscrapers\n• giant anti-aircraft cannons mounted across rooftops\n• endless bullet patterns streaking through cloudy skies\n• retro military airfields integrated into urban districts\n• giant “MISSION START” alerts projected into the clouds\n• dramatic explosion trails lighting the skyline at night\n• aircraft carriers docked beside futuristic city ports\n• glowing power-up icons floating through aerial battle zones\n• giant radar systems rotating above downtown towers\n• endless enemy squadrons emerging from storm clouds\n• cinematic ocean-and-warzone environments surrounding the metropolis\n\n😂 COMEDIC DETAILS\n\n• random civilians casually dodging fighter planes on the way to work 😭\n• one pilot barrel-rolling dramatically for absolutely no reason\n• giant billboard flashing: “PLAYER 1 READY.”\n• pedestrians treating near-miss explosions like normal traffic\n• somebody still trying to collect every floating power-up midair\n• random mechanic repairing planes using pure confidence\n• one legendary pilot surviving impossible situations through arcade logic alone\n\n💡 LIGHTING & STYLE\n\nretro war-film cinematic lighting, fiery aerial-battle atmosphere, dramatic clouds and explosion reflections, hyper-detailed realistic textures mixed with nostalgic arcade-shooter aesthetics, intense blockbuster-war energy, masterpiece quality\n\n🎥 CAMERA\n\ncinematic aerial tracking shot, immersive dogfight atmosphere, dynamic motion blur from fighter planes and explosions, documentary-meets-retro-arcade realism, futuristic Manila-inspired 1942 metropolis, “classic arcade air combat became civilization” atmosphere",
+      "promptPreview": "Ultra-realistic cinematic “1942 City” scene, retro WWII arcade-shooter-inspired metropolis in real life, intense aerial-war atmosphere, vertical 4:5 editorial composition Male, exact face, vintage military-pilot-inspired",
+      "category": "Scenes & Storytelling",
+      "styles": [
+        "UI",
+        "Realistic"
+      ],
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Travel"
+      ],
+      "featured": false,
+      "githubUrl": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-448"
+    },
+    {
+      "id": 447,
+      "title": "现代地铁工程信息图",
+      "image": "/images/case447.jpg",
+      "imageAlt": "现代地铁工程信息图",
+      "sourceLabel": "@j_smeaton99",
+      "sourceUrl": "https://x.com/j_smeaton99/status/2056950969083343077",
+      "prompt": "Create a premium square “reference-style urban transportation infographic” centered around a futuristic modern metro system called the {METRO_NAME}, designed as a beautifully curated transit-engineering handbook page rather than a public transport advertisement.\n\nThe composition should feel like a modern visual encyclopedia mixed with an elite railway infrastructure field guide and high-end editorial infographic system.\n\nVisual Direction:\n\n• 1:1 square composition\n• Dark premium urban-tech background with subtle railway schematics, metro maps, and futuristic blueprint overlays\n• Elegant palette using deep navy, matte black, steel gray, electric blue accents, and soft white lighting\n• Refined editorial typography hierarchy with modern transportation aesthetics\n• Rounded modular information cards with clean spacing\n• Gentle realistic reflections and premium HUD-style dividers\n• Minimal transit-system iconography\n• Extremely detailed central metro train render viewed in dramatic three-quarter perspective inside a futuristic underground station\n• Thin precision annotation lines pointing toward transportation systems and smart engineering features\n• Clean, organized “knowledge-first” layout with high information density but breathable spacing\n\nMain Subject Presentation:\n\nA stunning ultra-detailed realistic render of the {METRO_NAME} modern metro train placed at the center, featuring sleek aerodynamic train design, glowing destination displays, realistic stainless-steel textures, illuminated station lighting, smart glass windows, premium urban-environment realism, and futuristic rail infrastructure.\n\nSurround the metro with scientific and engineering callouts explaining:\n\n• regenerative braking system\n• smart signalling & CBTC control\n• electric propulsion system\n• passenger information systems\n• safety and surveillance technology\n• platform screen doors\n• energy-efficient design\n• smart ventilation systems\n• accessibility features\n• track and infrastructure engineering\n\nInclude modular infographic sections such as:\n\n• Metro System Overview\n• Technical Specifications\n• Train Dimensions & Layout\n• Passenger Capacity & Flow\n• Smart Control Systems\n• Sustainability Features\n• Track & Infrastructure Engineering\n• Signalling & Automation\n• Station Design & Facilities\n• Safety & Emergency Systems\n• Passenger Experience Features\n• Urban Connectivity & Network Map\n• Energy Efficiency Comparison\n• Construction & Expansion Timeline\n• “Top 5 Smart Innovations” section\n• Built for Future Smart Cities\n\nAdd small premium visualization modules like:\n\n• metro network maps\n• train blueprint diagrams\n• station layout graphics\n• passenger flow visualizations\n• signalling workflow diagrams\n• energy-efficiency comparison charts\n• train configuration illustrations\n• smart-city connectivity graphics\n• platform safety diagrams\n• infrastructure cross-section visuals\n\nStyle Keywords:\n\n“premium urban mobility encyclopedia”\n“editorial metro engineering handbook”\n“high-end transportation infographic”\n“scientific railway infrastructure poster”\n“museum-quality transit reference page”\n“modular smart-city knowledge system”\n“clean transportation editorial design”\n“ultra-detailed metro visualization”\n\nAvoid:\n\n• cluttered public advertisement aesthetics\n• cartoon transportation styling\n• unrealistic sci-fi levitating trains\n• excessive cyberpunk neon overload\n• chaotic city scenes\n• generic subway poster layouts\n\nThe final result should resemble a professionally published railway infrastructure reference-book page created for transit enthusiasts, architects, engineers, urban planners, transportation designers, and educational infrastructure archives.",
+      "promptPreview": "Create a premium square “reference-style urban transportation infographic” centered around a futuristic modern metro system called the {METRO_NAME}, designed as a beautifully curated transit-engineering handbook page rat",
+      "category": "Charts & Infographics",
+      "styles": [
+        "UI",
+        "Infographic",
+        "Poster"
+      ],
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Education"
+      ],
+      "featured": false,
+      "githubUrl": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-447"
+    },
+    {
+      "id": 446,
+      "title": "低多边形纸艺男士肖像",
+      "image": "/images/case446.jpg",
+      "imageAlt": "低多边形纸艺男士肖像",
+      "sourceLabel": "@iamsofiaijaz",
+      "sourceUrl": "https://x.com/iamsofiaijaz/status/2056953102755115162",
+      "prompt": "Create a highly detailed low-poly papercraft portrait of a stylish young man, designed like an origami paper sculpture. The character has curly dark brown hair, a trimmed beard, and wears slightly black-tinted geometric sunglasses with thin black frames. His shirt is medium grey with sharp polygonal folds and realistic paper texture. Use faceted angular shapes across the face, hair, and clothing, with realistic shadows and layered paper depth. Minimal clean white studio background, soft lighting, ultra-realistic paper craft aesthetic, modern geometric art style, high detail, centered composition, 8k quality.",
+      "promptPreview": "Create a highly detailed low-poly papercraft portrait of a stylish young man, designed like an origami paper sculpture. The character has curly dark brown hair, a trimmed beard, and wears slightly black-tinted geometric ",
+      "category": "Illustration & Art",
+      "styles": [
+        "Realistic",
+        "Character"
+      ],
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Fashion"
+      ],
+      "featured": false,
+      "githubUrl": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-446"
+    },
     {
       "id": 445,
       "title": "旅游照水墨明信片",
