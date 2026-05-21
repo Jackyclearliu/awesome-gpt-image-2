@@ -1,6 +1,6 @@
 {
   "repository": "https://github.com/freestylefly/awesome-gpt-image-2",
-  "totalCases": 447,
+  "totalCases": 448,
   "categories": [
     "Architecture & Spaces",
     "Brand & Logos",
@@ -50,6 +50,25 @@
     "Travel"
   ],
   "cases": [
+    {
+      "id": 451,
+      "title": "韩国海滩日落时尚人像",
+      "image": "/images/case451.jpg",
+      "imageAlt": "韩国海滩日落时尚人像",
+      "sourceLabel": "@MrGafish",
+      "sourceUrl": "https://x.com/MrGafish/status/2057107670226870577",
+      "prompt": "一位成年韩国女孩，人物位于画面中央，半身到大腿视角，身体微微前倾。身形比例协调，肩颈线条舒展，可以看到胸部轮廓，轮廓自然优美，腰部线条柔和，整体凸显丰腴健康的女性美，丝滑黑发随风飘扬，人物气质成熟、温柔、安静，面带自然微笑。身穿白色一字肩连衣裙，背景是热带海滩日落，电影感DSLR摄影，温暖辉光照明，梦幻虚化，超详细，鲜艳色彩，丰富对比，韩国时尚美学氛围，自然欢乐情感，高端生活方式摄影。9:16 竖版构图。",
+      "promptPreview": "一位成年韩国女孩，人物位于画面中央，半身到大腿视角，身体微微前倾。身形比例协调，肩颈线条舒展，可以看到胸部轮廓，轮廓自然优美，腰部线条柔和，整体凸显丰腴健康的女性美，丝滑黑发随风飘扬，人物气质成熟、温柔、安静，面带自然微笑。身穿白色一字肩连衣裙，背景是热带海滩日落，电影感DSLR摄影，温暖辉光照明，梦幻虚化，超详细，鲜艳色彩，丰富对比，韩国时尚美学氛围，自然欢乐情感，高端生活方式摄影。9:16 竖版构图。",
+      "category": "Photography & Realism",
+      "styles": [
+        "Character"
+      ],
+      "scenes": [
+        "Creative"
+      ],
+      "featured": false,
+      "githubUrl": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-451"
+    },
     {
       "id": 450,
       "title": "烛光侧室写实摄影",
